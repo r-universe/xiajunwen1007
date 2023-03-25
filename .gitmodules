@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "otrKM"]
+	path = otrKM
+	url = https://github.com/cran/otrKM
+	shallow = true
+	registered = true
